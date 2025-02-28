@@ -1,3 +1,9 @@
-streamlit
+opencv-python
+opencv-python-headless
+numpy
+Pillow
 requests
+streamlit
+moviepy
+ffmpeg-python
 python-dotenv
