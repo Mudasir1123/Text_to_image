@@ -52,3 +52,4 @@ if st.button("Generate Image"):
 
     else:
         st.warning("⚠️ Please enter a valid prompt.")
+    
